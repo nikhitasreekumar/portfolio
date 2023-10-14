@@ -9,15 +9,15 @@
 .row1{
     padding-top: 7%;
     padding-left: 30px;
-    width: 700px;
+    width: 400px;
     padding-right: 40px;
     color: #FF69B4;
 }
 .row2{
     /* border: 3px solid bisque; */
     border-radius: 20px;
-width: 300px;
-margin-left: 500px;
+width: 200px;
+margin-left: 200px;
 }
 .row2a{
     /* border: 3px solid bisque; */
