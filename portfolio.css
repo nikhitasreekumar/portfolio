@@ -1,7 +1,7 @@
 .parent{
     background-image: url(./portfolioimages.html/360_F_388654597_RJ46YzwmSQ8Jabg3ARtCJ4rkAKBzmvo3.jpg);
     width: 100%;
-    height: 4000px;
+    height: 1700px;
     background-size: contain;
     position: relative;
     
@@ -88,5 +88,8 @@ background: linear-gradient(141deg, rgba(238,174,202,1) 0%, rgba(221,227,235,1) 
       min-width: 390px;
     }
   
+}
+.card-header{
+   font-family: Georgia, 'Times New Roman', Times, serif; 
 }
 
